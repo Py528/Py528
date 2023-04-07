@@ -1,9 +1,9 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stefan Topalovic
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pranav Shinde
 
 ## I am Front End developer.
 
--   🌍 I'm based in Belgrade, Serbia
--   🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
+-   🌍 I'm based in Pune, India
+<!-- -   🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a> -->
 -   🧠 Currently learning TypeScript
 -   🤝 I'm open to collaborating on interesting projects as a developer
 
@@ -17,4 +17,4 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/pranaav-shinde-1b8abb1b3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
