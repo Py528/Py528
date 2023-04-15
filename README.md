@@ -3,7 +3,7 @@
 ## I am Front End developer.
 
 -   🌍 I'm based in Pune, India<!-- -   🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a> -->
--   🧠 Currently learning TypeScript
+-   🧠 Currently learning TypeScript and Next.JS
 -   🤝 I'm open to collaborating on interesting projects as a developer
 
 ### Skills
