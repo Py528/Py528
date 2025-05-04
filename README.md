@@ -67,7 +67,7 @@
 
 ## 🔥 Let's Connect & Build Epic Stuff
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranaav-shinde-1b8abb1b3/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranaavshinde/)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/Pranaav2412)  
 
 🚀 Let's make data dance & build something legendary! 🔥
